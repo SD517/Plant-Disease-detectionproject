@@ -16,7 +16,7 @@ everything through a **Flask web application**.
 
 | Roll No. | Name |
 |---|---|
-| 711724UAD102 | Aayshaasmithah |
+| 711724UAD102 | Aaysha asmitha H |
 | 711724UAD103 | Abarna A R |
 | 711724UAD105 | Akilan C K |
 | 711724UAD119 | Bhaavana K |
