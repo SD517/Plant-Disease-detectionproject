@@ -10,7 +10,7 @@ using **transfer learning** (MobileNetV2 and ResNet50), explains each prediction
 everything through a **Flask web application**.
 
 > **B.Tech – Artificial Intelligence and Data Science**, KGiSL Institute of Technology
-> Full project report: [`docs/DL_Project_Report.pdf`](docs/DL_Project_Report.pdf)
+> Full project report: [`DL_Project_Report.pdf`](DL_Project_Report.pdf)
 
 ## Team
 
